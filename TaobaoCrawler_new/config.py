@@ -1,6 +1,6 @@
 # 搜索配置
 # 搜索内容
-str_searchContent = 'iPhone Xs'
+str_searchContent = '罗技 G502'
 # 每页显示数量
 num_pageSize = 100
 # 从第一页 至 第几页（理论上可穷尽阿里服务器），推荐填入 1~100 ，页数再大则显示的内容匹配度不足
